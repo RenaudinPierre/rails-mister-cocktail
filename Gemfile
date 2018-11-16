@@ -37,7 +37,7 @@ gem 'simple_form'
 gem 'dotenv-rails', groups: [:development, :test]
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+gem 'cloudinary'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
